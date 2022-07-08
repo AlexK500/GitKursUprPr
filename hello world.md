@@ -45,6 +45,6 @@
 
 Картинка с альтом и тайтлом:
 
-![Alt text](//placehold.it/150x100 "Можно задать title")
+![Alt text](//palec.jpg/150x147 "Можно задать title")
 
 
