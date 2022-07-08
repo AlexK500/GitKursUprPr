@@ -41,10 +41,10 @@
 
 Картинка без `alt` текста
 
-![] (//palec.jpg/150x147)
+![](/home/picture/1.png)
 
 Картинка с альтом и тайтлом:
 
-![Alt text](//palec.jpg/150x147 "Можно задать title")
+![Alt text пример](//palec.jpg/150x147 "Можно задать title")
 
 
